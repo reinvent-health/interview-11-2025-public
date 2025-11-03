@@ -5,7 +5,7 @@
 
 ## Data
 - Our own internal "database" of providers: internal-provider-database.csv
-- External third party service returning: https://37fb26dbaf2a.ngrok-free.app/doc
+- External third party service returning: https://37fb26dbaf2a.ngrok-free.app/docs
 
 ## Relevancy score rule
 Score out of 5 based on 5 criteria
