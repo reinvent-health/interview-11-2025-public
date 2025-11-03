@@ -4,7 +4,7 @@
 2. (Extra) List providers
 
 ## Data
-- Our own internal "database" of providers: data.csv
+- Our own internal "database" of providers: internal-provider-database.csv
 - External third party service returning: https://37fb26dbaf2a.ngrok-free.app/doc
 
 ## Relevancy score rule
