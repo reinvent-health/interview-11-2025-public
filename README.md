@@ -1,11 +1,11 @@
 # prava-interview-11-2025-public
 ## Goal
-1. Write a simple REST API that computes a provider relevancy score for a single provider
-2. (Extra) List providers
+1. Write a simple REST API that computes a provider relevancy score for a single provider - `GET providers/:provider_id`
+2. List providers - `GET providers/`
 
 ## Data
-- Our own internal "database" of providers: internal-provider-database.csv
-- External third party service returning: https://37fb26dbaf2a.ngrok-free.app/docs
+- Our own internal "database" of providers: internal-provider-database.csv - consider the index in the csv file as the provider_id
+- You will use an external third party service that you can consider as a "global" public registry of providers: https://37fb26dbaf2a.ngrok-free.app/docs
 
 ## Relevancy score rule
 Score out of 5 based on 5 criteria
