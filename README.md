@@ -1,6 +1,6 @@
 # prava-interview-11-2025-public
 ## Goal
-1. Write a REST API that computes a provider relevancy score for a single provider
+1. Write a REST API that computes a provider relevancy score for a single provider. This api will accept a provider_id as input
 2. Write a REST API that can list providers with their relevancy score
 
 ## Data
