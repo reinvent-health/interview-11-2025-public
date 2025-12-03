@@ -5,7 +5,7 @@
 
 ## Data
 - Our own internal "database" of providers: internal-provider-database.csv - consider the index in the csv file as the provider_id
-- You will use an external third party service that you can consider as a "global" public registry of providers: https://37fb26dbaf2a.ngrok-free.app/docs
+- You will use an external third party service that you can consider as a "global" public registry of providers: <interview to give link to the external api>
 
 ## Relevancy score rule
 Score out of 5 based on 5 criteria
